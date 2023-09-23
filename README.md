@@ -5,3 +5,6 @@ Le foto in questo repository sono concesse in licenza in base a [Creative Common
 ![Toscolano](toscolano2.jpg)
 ![Toscolano](toscolano3.jpg)
 ![Toscolano](toscolano4.jpg)
+
+
+## Autore: Claudio 
